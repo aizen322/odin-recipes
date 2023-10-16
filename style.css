@@ -1,0 +1,23 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color:rgb(124, 32, 32);
+}
+li a:hover{
+    color: black;
+}
+.container{
+    background-color: bisque;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    color: rgb(41, 41, 41);
+}
